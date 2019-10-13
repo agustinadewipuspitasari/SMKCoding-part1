@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">alumni</string>
+    <string name="image">image</string>
+    <string name="nama">Nama:</string>
+    <string name="image">image</string>
+    <string name="agustina_dewi">agustina_dewi</string>
+    <string name="no_hp">no.hp</string>
+    <string name="_08386095629">08386095629</string>
+    <string name="button1">Button1</string>
+    <string name="button_2">button_2</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+</resources>
